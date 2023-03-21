@@ -1,4 +1,4 @@
-### Hello, I am Mighty 👋🏻
+### Hello there! 👋🏻
 
 I program small scripts that makes life easier:
 
